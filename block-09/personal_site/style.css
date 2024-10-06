@@ -1,0 +1,44 @@
+header{
+    background-color: rgba(59, 36, 36, 0.589);
+    display: flex;
+    
+}
+.Home {
+    margin: 10px;
+    text-align: right;
+    flex: 1 1 50%;
+
+}
+
+.About {
+    margin : 10px;
+
+}
+.Portfolio {
+    margin : 10px;
+
+}
+
+.Section-style {
+    background-color: aqua;
+    border: 1px;
+    padding: 10px;
+}
+.Section-index-style {
+    background-color: aqua;
+    border: 1px;
+    padding: 10px;
+    display: flex;
+}
+
+h4{
+    text-align: center;
+}
+
+.photo-style{
+    margin: 5px;
+    border: 1px;
+    padding: 1px;
+    max-width: 100%;
+    align-self: center;
+    }
